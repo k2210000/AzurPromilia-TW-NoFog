@@ -1,0 +1,52 @@
+{
+  "version": "3221746",
+  "builtin_version": "3060618",
+  "readonly_files": [
+    {
+      "relative_path": "StreamingAssets/.res/default_package/0release_default_package_3060618.bytes",
+      "sha256": "713b59fac4d4b40bb0ca5cfdf7a047ec846b329c972428831c25bd9c3aac02af"
+    },
+    {
+      "relative_path": "StreamingAssets/.res/default_package/0release_default_package_3060618.hash",
+      "sha256": "b95a3ae32bd0089686205966c7e1d8b3e2bd782856faf38daf1e67efe257b648"
+    },
+    {
+      "relative_path": ".res/default_package/ManifestFiles/0release_default_package_3221746.bytes",
+      "sha256": "e6ad7b2c2c75c56bbf930a81d7e1d9aa616da635fa3ba8570167c574fd1ed295"
+    },
+    {
+      "relative_path": ".res/default_package/ManifestFiles/0release_default_package_3221746.hash",
+      "sha256": "dc234a6692d99ef59d750107fac5c0e912f3b2918e4cd71d6c0556cdfde4c766"
+    }
+  ],
+  "files": [
+    {
+      "relative_path": ".res/default_package/BundleFiles/d3svzxgozq953wetzjanua.r",
+      "source_sha256": "c23df67d9b181202546daf11591b2da81093c68f7df7542be74fe678e4cb058b",
+      "target_sha256": "60f10aa4dc23b90a55f491265cb88e5ac5e4d814c23a3e975d1b0074dd151433",
+      "size": 5242352,
+      "crc32": 1170051029
+    },
+    {
+      "relative_path": "StreamingAssets/.res/default_package/s6ppge3l6q1q9htrof7qcq.r",
+      "source_sha256": "39250e20c44e5762a38e245c68d77dd3ff6aacc924bd20dee5cf08f4910372f5",
+      "target_sha256": "c0db6b5c0d6ec9f1c481fe16980f4b8af2dd02670a83f014e812b27561cf3e36",
+      "size": 5236878,
+      "crc32": 231332960
+    },
+    {
+      "relative_path": "StreamingAssets/.res/default_package/tsn5bfvm7hx6csi1reyrya.r",
+      "source_sha256": "681deeda8931772643d7592812603d091bb78f315bb0a09780790efbe3bc878c",
+      "target_sha256": "c6119cc527651c413ebcf131a456189b3dd15e64426b5ddd4e85b17948e3f564",
+      "size": 4744110,
+      "crc32": 2116709025
+    },
+    {
+      "relative_path": "StreamingAssets/.res/default_package/wf4ksai7xalfafyxycu1g.r",
+      "source_sha256": "d887f1b7b3a1fcd73f412f7a9f443fa1dd580fad60977f2e1c958daf52d40e9a",
+      "target_sha256": "5665f4e2012f8574e4a679fb777168a4550cc4d1b4354338633e2cb52a58874f",
+      "size": 5242352,
+      "crc32": 3616706895
+    }
+  ]
+}

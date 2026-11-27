@@ -1,0 +1,18 @@
+AzurPromilia TW Full — Third-party notices and license scope
+
+本專案為非官方獨立研究工具。
+
+參考專案：
+- Azur-Promilia-Chinese-Translation-Script by xiayuan0817 and contributors
+  https://github.com/xiayuan0817/Azur-Promilia-Chinese-Translation-Script
+  License: Apache License 2.0.
+- AzurPromilia-NoFog by taisiringo and contributors
+  https://github.com/taisiringo/AzurPromilia-NoFog
+  Research reference only; any incorporated third-party code must retain its applicable license and notices.
+
+本專案包含獨立的安裝介面、路徑輸入、版本檢查及備份還原流程。
+如有散布經修改的上游原始檔案，請在該檔案中保留原有聲明並明確標註修改。
+
+授權範圍：LICENSE 僅適用於有權以 Apache-2.0 授權的程式碼與文件，
+不得解讀為授予遊戲或第三方資源之權利。遊戲名稱、商標、原始及修改後的
+遊戲資源（含 .r、payload/）均不在本專案開源授權範圍內。
